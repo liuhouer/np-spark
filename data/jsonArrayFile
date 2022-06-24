@@ -1,0 +1,5 @@
+{"name":"zhangsan","age":18,"scores":[{"yuwen":98,"shuxue":90,"yingyu":100},{"dili":98,"shengwu":78,"huaxue":100}]}
+{"name":"lisi","age":19,"scores":[{"yuwen":58,"shuxue":50,"yingyu":78},{"dili":56,"shengwu":76,"huaxue":13}]}
+{"name":"wangwu","age":17,"scores":[{"yuwen":18,"shuxue":90,"yingyu":45},{"dili":76,"shengwu":42,"huaxue":45}]}
+{"name":"zhaoliu","age":20,"scores":[{"yuwen":68,"shuxue":23,"yingyu":63},{"dili":23,"shengwu":45,"huaxue":87}]}
+{"name":"tianqi","age":22,"scores":[{"yuwen":88,"shuxue":91,"yingyu":41},{"dili":56,"shengwu":79,"huaxue":45}]}

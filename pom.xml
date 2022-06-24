@@ -71,7 +71,7 @@
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
             <version>1.2.68</version>
-            <scope>provided</scope>
+            <!--  <scope>provided</scope>-->
         </dependency>
 
         <!-- Scala 包-->

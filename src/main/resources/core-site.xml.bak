@@ -1,0 +1,34 @@
+<configuration>
+
+    <!-- 指定HDFS中NameNode的地址 -->
+    <property>
+        <name>fs.defaultFS</name>
+        <value>hdfs://linux121:9000</value>
+    </property>
+
+    <!-- 指定Hadoop运行时产生文件的存储目录 -->
+    <property>
+        <name>hadoop.tmp.dir</name>
+        <value>/opt/lagou/servers/hadoop-2.9.2/data/tmp</value>
+    </property>
+
+    <!-- beeline -->
+    <property>
+        <name>hadoop.proxyuser.root.hosts</name>
+        <value>*</value>
+    </property>
+    <property>
+        <name>hadoop.proxyuser.root.groups</name>
+        <value>*</value>
+    </property>
+
+    <property>
+        <name>hadoop.proxyuser.hdfs.hosts</name>
+        <value>*</value>
+    </property>
+    <property>
+        <name>hadoop.proxyuser.hdfs.groups</name>
+        <value>*</value>
+    </property>
+
+</configuration>
